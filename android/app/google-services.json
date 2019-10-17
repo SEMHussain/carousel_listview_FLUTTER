@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "581050760414",
+    "firebase_url": "https://semh-b8d5c.firebaseio.com",
+    "project_id": "semh-b8d5c",
+    "storage_bucket": "semh-b8d5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581050760414:android:a8ba139c0020934620d64f",
+        "android_client_info": {
+          "package_name": "semh.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581050760414-bj273ejrqteocgpb31ogrgt61ot723oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR0uIcPwt15gmJ2M5kBt-H-mXWjU7VJmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581050760414-bj273ejrqteocgpb31ogrgt61ot723oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
